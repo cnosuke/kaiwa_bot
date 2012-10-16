@@ -4,7 +4,6 @@ while line = STDIN.gets
     break;
   end
   n = rand(3).to_i
-  n
   if n==0
     puts 'マジで'
   elsif n==1
